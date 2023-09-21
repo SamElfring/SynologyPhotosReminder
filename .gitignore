@@ -1,0 +1,5 @@
+node_modules
+src/temp
+src/temp/
+.env
+datesused.json
